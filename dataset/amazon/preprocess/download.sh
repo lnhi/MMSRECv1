@@ -3,11 +3,11 @@
 cd ../raw
 
 # Amazon All Beauty
-mkdir Beauty
-cd ./Beauty
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Beauty.csv
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Beauty.json.gz
-cd ../
+#mkdir Beauty
+#cd ./Beauty
+#wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Beauty.csv
+#wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Beauty.json.gz
+#cd ../
 
 # Amazon Sports and Outdoors
 mkdir Sports
@@ -24,11 +24,11 @@ wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/ca
 cd ../
 
 # Amazon Home and Kitchen
-mkdir Home
-cd ./Home
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Home_and_Kitchen.csv
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Home_and_Kitchen.json.gz
-cd ../
+#mkdir Home
+#cd ./Home
+#wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Home_and_Kitchen.csv
+#wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Home_and_Kitchen.json.gz
+#cd ../
 
 
 
