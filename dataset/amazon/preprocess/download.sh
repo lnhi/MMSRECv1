@@ -10,11 +10,11 @@ cd ../raw
 #cd ../
 
 # Amazon Sports and Outdoors
-mkdir Sports
-cd ./Sports
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Sports_and_Outdoors.csv
-wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Sports_and_Outdoors.json.gz
-cd ../
+#    mkdir Sports
+#    cd ./Sports
+#    wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Sports_and_Outdoors.csv
+#    wget --no-check-certificate http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Sports_and_Outdoors.json.gz
+#    cd ../
 
 # Amazon Clothing Shoes and Jewelry
 mkdir Clothing
