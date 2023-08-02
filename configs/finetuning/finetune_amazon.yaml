@@ -8,14 +8,14 @@ display_name: ""
 # - basic
 num_worker: 8
 # - train
-train_item_file: "./dataset/amazon/processed/Sports/item_feature.jsonl"
-train_seq_file: "./dataset/amazon/processed/Sports/train_seq.jsonl"
+train_item_file: "./dataset/amazon/processed/Clothing/item_feature.jsonl"
+train_seq_file: "./dataset/amazon/processed/Clothing/train_seq.jsonl"
 # - eval
-eval_item_file: "./dataset/amazon/processed/Sports/item_feature.jsonl"
-eval_seq_file: "./dataset/amazon/processed/Sports/eval_seq.jsonl"
+eval_item_file: "./dataset/amazon/processed/Clothing/item_feature.jsonl"
+eval_seq_file: "./dataset/amazon/processed/Clothing/eval_seq.jsonl"
 # - test
-test_item_file: "./dataset/amazon/processed/Sports/item_feature.jsonl"
-test_seq_file: "./dataset/amazon/processed/Sports/test_seq.jsonl"
+test_item_file: "./dataset/amazon/processed/Clothing/item_feature.jsonl"
+test_seq_file: "./dataset/amazon/processed/Clothing/test_seq.jsonl"
 # - seq
 max_seq_length: 20
 # - vision    ["mp4", "embed", ~]
